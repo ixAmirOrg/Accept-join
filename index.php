@@ -42,7 +42,7 @@ if (isset($chat_join_request))
     
     ┈┅━━━━┅┈🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇺🇸┈┅━━━━┅┈
     
-    - Your Request To Join The Channel Has Been Accepted.    ']);
+    - Your Request To Join The Channel Has Been Accepted.    ']); // BOT TEXT
 }
 
 ?>
