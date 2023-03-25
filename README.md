@@ -12,5 +12,5 @@ Go to the ` index.php ` file :
 
 - 📌39 - 45 =>  **Robot text** 🎭
 
-- 📌 Finally, Open the source link once (set webhook is done automatically) : https://Your Damain/folder/index.php  🔗
+- 📌 Finally, Open the source link once (set webhook is done automatically) : https://YourDamain/folder/index.php  🔗
 
