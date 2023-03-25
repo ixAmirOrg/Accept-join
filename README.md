@@ -2,7 +2,7 @@
 - 🔥This is a bot for accepting Telegram channel membership requests.
 - ⚡️ [click here for connect to author](https://t.me/ixAmirCom)
 
-[راهنمای فارسی](https://github.com/ixAmirCom/commenter/blob/main/lan/README.fa.md)
+[راهنمای فارسی](https://github.com/ixAmirCom/Accept-join/blob/main/lan/README.fa.md)
 
 ## ⚙️Edit And Run :
 
