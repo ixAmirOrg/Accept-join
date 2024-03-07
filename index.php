@@ -12,7 +12,7 @@ define('API_KEY', 'token'); // Bot token
 
 if (!is_file('ixAmir.look'))
 {
-    $set = bot('setwebhook', ['url' => 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], 'allowed_updates' => ['message', 'chat_join_request']]);
+  $set = bot('setwebhook', ['url' => 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], 'allowed_updates' => ['message', 'chat_join_request']]);
     if ($set->ok == true)
     {
         echo '<h1 style="text-align: center;margin-top:30px">The Bot Ran Successfully. | ربات با موفقیت اجرا شد.</h1>';
